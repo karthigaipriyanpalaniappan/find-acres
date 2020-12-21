@@ -8,6 +8,7 @@
     border: 1px solid #ccc;
     border-radius: 4px;
     resize: vertical;
+    font-size: 16px;
   }
   
   label {
@@ -26,7 +27,7 @@
   }
   
   input:hover {
-    background-color: #45a049;
+    background-color: #8ff194;
   }
   
   .container {
